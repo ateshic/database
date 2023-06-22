@@ -1,0 +1,21 @@
+{
+    "name": "ateshic/database",
+    "description": "Database Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ateshic\\Database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aqua Kyouka",
+            "email": "aqua.kyouka@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
